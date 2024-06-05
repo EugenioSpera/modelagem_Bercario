@@ -1,0 +1,21 @@
+ATV UC03-A
+Modelagem Dados
+ 
+Empresa: Berçário Bebê Feliz
+Regras
+Um berçário deseja informatizar suas operações. Quando um bebê nasce, algumas informações são armazenadas sobre ele, tais como:
+nome, data do nascimento, peso do nascimento, altura, a mãe deste bebê e o médico que fez seu parto. Para as mães, o berçário também deseja manter um controle,
+guardando informações como: nome, endereço, telefone e data de nascimento. Para os médicos, é importante saber: CRM, nome, telefone celular e especialidade. 
+Os médicos normalmente possuem mais de um celular e seria interessante mantê-los todos no sistema. Cada médico possui uma única especialidade. 
+Após o parto, outros médicos podem acompanhar o desenvolvimento da criança, sendo necessário o armazenamento dos dados sobre diagnóstico, data e eventuais prescrições.
+
+
+
+
+ATV UC03-B
+Modelagem Dados   Empresa: Floricultura Flor de Lis
+Regras
+Uma floricultura deseja informatizar suas operações. Inicialmente, deseja manter um cadastro de todos os seus clientes, mantendo informações como:
+ rg, cpf, nome, idade, telefone e endereço. Deseja também manter um cadastro contendo informações sobre os produtos que vende, tais como: 
+nome do produto, tipo (flor, vaso, planta,...), preço e quantidade em estoque. Quando um cliente faz uma compra, a mesma é armazenada, 
+mantendo informação sobre o cliente que fez a compra, a data da compra, o valor total e os itens comprados.
